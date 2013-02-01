@@ -1,2 +1,2 @@
-janrain-capture-screens
-=======================
+Janrain Capture Screens for Extensions
+======================================
